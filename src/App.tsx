@@ -1,0 +1,9 @@
+function App() {
+  return (
+    <div className="bg-red-500 text-white text-4xl p-8">
+      Tailwind is working
+    </div>
+  )
+}
+
+export default App
