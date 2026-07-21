@@ -90,7 +90,7 @@ const FlagMockup = () => {
 
 const Hero = () => {
   return (
-    <section className="relative pt-32 pb-20 lg:pt-48 lg:pb-32 overflow-hidden">
+    <section className="relative pt-24 pb-20 lg:pt-32 lg:pb-32 overflow-hidden">
       {/* Grid background */}
       <div
         className="absolute inset-0 opacity-60"
