@@ -1,6 +1,8 @@
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Features from './components/Features'
+import HowItWorks from './components/HowItWorks'
+import Pricing from './components/Pricing'
 
 const LandingPage = () => {
   return (
@@ -8,6 +10,8 @@ const LandingPage = () => {
       <Navbar />
       <Hero />
       <Features />
+      <HowItWorks />
+      <Pricing />
     </div>
   )
 }
