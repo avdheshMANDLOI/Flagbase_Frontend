@@ -3,6 +3,7 @@ import Hero from './components/Hero'
 import Features from './components/Features'
 import HowItWorks from './components/HowItWorks'
 import Pricing from './components/Pricing'
+import FAQ from './components/FAQ'
 
 const LandingPage = () => {
   return (
@@ -12,6 +13,7 @@ const LandingPage = () => {
       <Features />
       <HowItWorks />
       <Pricing />
+      <FAQ />
     </div>
   )
 }
